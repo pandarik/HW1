@@ -4,7 +4,7 @@ Crowdfunding Assignment
 Background
 Crowdfunding platforms like Kickstarter and Indiegogo have experienced significant growth and popularity since the late 2000s. These platforms provide a space for a diverse range of individuals, from independent creators to well-known celebrities, to seek funding for their innovative projects. However, not every project achieves success.
 
-To secure funding, a project must either meet or surpass its initial funding goal. Consequently, many organizations invest substantial resources in examining past projects, hoping to uncover the elusive “secret” to achieving success. In this week’s Challenge, you will delve into a database of 1,000 sample projects, aiming to reveal any hidden trends that could shed light on the keys to crowdfunding triumph. 🚀🌟
+To secure funding, a project must either meet or surpass its initial funding goal. Consequently, many organizations invest substantial resources in examining past projects, hoping to uncover the elusive “secret” to achieving success. In this week’s Challenge, you will delve into a database of 1,000 sample projects, aiming to reveal any hidden trends that could shed light on the keys to crowdfunding triumph.
 
 Objective
 The goal of this assignment is to explore the dataset, identify patterns, and gain insights into what factors contribute to a successful crowdfunding campaign. By analyzing project attributes such as funding goals, categories, and campaign duration, we aim to provide recommendations for future project creators.
